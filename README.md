@@ -2,6 +2,7 @@
 
 ---
 # 2024 ACTL4001 SOA Challenge: Super Life Saves Lives
+![](LifeInsurance.HTML)
 
 ---
 The University of New South Wales
@@ -17,4 +18,3 @@ Please refer to [initial repository](https://github.com/Tomathy123/ACTL4001) for
 
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
