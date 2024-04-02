@@ -1,14 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Actuarial Theory and Practice A @ UNSW
-
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
 
 ### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
 
 This is written in markdown language. 
 >
