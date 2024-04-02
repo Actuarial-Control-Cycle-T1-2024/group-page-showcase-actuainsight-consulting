@@ -2,7 +2,7 @@
 
 ---
 # 2024 ACTL4001 SOA Challenge: Super Life Saves Lives
-![](LifeInsurance.HTML)
+![](LifeInsurance.gif)
 
 ---
 The University of New South Wales
