@@ -1,8 +1,7 @@
 # Actuarial Theory and Practice A @ UNSW
 
 ---
-> Testing\
-123
+# 2024 ACTL4001 SOA Challenge: Super Life Saves Lives
 
 ---
 
