@@ -1,10 +1,6 @@
 # Actuarial Theory and Practice A @ UNSW
 
 ---
-
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
-
-This is written in markdown language. 
 >
 * Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
 
