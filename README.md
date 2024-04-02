@@ -4,10 +4,17 @@
 # 2024 ACTL4001 SOA Challenge: Super Life Saves Lives
 
 ---
+The University of New South Wales
+
+Team: ActuaInsight Consulting
+
+Members: Karan Deshwal, Luis Alvarez, Arneet Kalra, Anoushay Khan and Tom Mihaljevic
+
+Please refer to [initial repository](https://github.com/Tomathy123/ACTL4001) for full commit history and member contributions.
+
+---
 
 
-_To be Deleted_
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
