@@ -247,7 +247,7 @@ Actualnsight has found that through the implementation of our 4 incentive progra
 ## 8. Appendix - Please Refer to Section 8 of the [Final Report](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-actuainsight-consulting/blob/df984685ef9cd79912909576affd3bf1c0579743/Actualnsight%20Consulting%20Report.pdf)
 
 ## 9. References
-**Risk Management**
+#### Risk Management
 
 Apra Prudential Practice Guide https://www.apra.gov.au/sites/default/files/Prudential-Practice-Guide-LPG-240-Life-Insurance-Risk-and-Life-Reinsurance-Risk_0.pdf
 
@@ -259,7 +259,7 @@ Assessing Liquidity Risk of Insurers www.ecb.europa.eu/pub/financial-stability/f
 
 Global, EY. “How Insurers Are Managing Liquidity Risks in a Volatile Market.” EY Australia, EY, 26 Feb. 2021, www.ey.com/en_au/insurance/how-insurers-are-managing-liquidity-risks-in-a-volatile-market.
 
-**Smoking Cessation**
+#### Smoking Cessation
 
 United States Public Health Service Office of the Surgeon General. “The Benefits of Smoking Cessation on Overall Morbidity, Mortality, and Economic Costs.” Smoking Cessation: A Report of the Surgeon General [Internet]., U.S. National Library of Medicine, 1970, www.ncbi.nlm.nih.gov/books/NBK555593/.
 
@@ -279,13 +279,13 @@ Janssen, Fanny, and Frans van Poppel. “The Adoption of Smoking and Its Effect 
 
 Banks, Emily, et al. BMC Medicine, vol. 13, no. 1, 24 Feb. 2015, doi:10.1186/s12916-015-0281-z. https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0281-z#:~:text=Compared%20to%20never-smokers%2C%20the,and%20according%20to%20birth%20cohort
 
-**Annual Health Incentives**
+#### Annual Health Incentives
 
 “Association of Cardiovascular Health Screening with Mortality, Clinical Outcomes, and Health Care Cost: A Nationwide Cohort Study.” Preventive Medicine, Academic Press, 20 Nov. 2014, www.sciencedirect.com/science/article/abs/pii/S0091743514004186#preview-section-references.
 
 Maren S. Fragala, Dov Shiffman. “Population Health Screenings for the Prevention of Chronic Disease Progression.” AJMC, MJH Life Sciences, www.ajmc.com/view/population-health-screenings-for-the-prevention-of-chronic-disease-progression.
 
-**Active Ageing**
+#### Active Ageing
 
 Joyner, Michael J, and Daniel J Green. “Exercise Protects the Cardiovascular System: Effects beyond Traditional Risk Factors.” The Journal of Physiology, U.S. National Library of Medicine, 1 Dec. 2009, www.ncbi.nlm.nih.gov/pmc/articles/PMC2805367/#:~:text=In%20many%20studies%2C%20regular%20vigorous,up%20to%2060%E2%80%9370%25.
 
@@ -295,7 +295,7 @@ Joyner, Michael J, and Daniel J Green. “Exercise Protects the Cardiovascular S
 
 Active Ageing A Policy Framework WHO extranet.who.int/agefriendlyworld/wp-content/uploads/2014/06/WHO-Active-Ageing-Framework.pdf
 
-**Fitness Tracking Program**
+#### Fitness Tracking Program
 
 Reimers, C D, et al. “Does Physical Activity Increase Life Expectancy? A Review of the Literature.” Journal of Aging Research, U.S. National Library of Medicine, www.ncbi.nlm.nih.gov/pmc/articles/PMC3395188/.
 
@@ -308,7 +308,7 @@ www.unitelife.org/blog/activity-tracking-can-reduce-life-insurance-premiums
 
 Klein, Sarah. “How Does Exercise Fight Aging?” Health, 6 Apr. 2023, www.health.com/fitness/anti-aging-exercise#:~:text=Research%20has%20shown%20that%20being,get%20potential%20anti-aging%20benefits.&text=MedlinePlus
 
-**Models**
+#### Models
 
 Response to Submissions APRA www.apra.gov.au/sites/default/files/lagic-response-to-submissions-october-2012_0.pdf.
 
