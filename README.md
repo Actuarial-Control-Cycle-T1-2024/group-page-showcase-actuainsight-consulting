@@ -48,6 +48,7 @@ C) Add economic value to SuperLife's offerings.
 
 ### 1.3 Program Metrics
 The program’s success will be assessed using the following targets:
+
 | Incentive Participation Rates | Customer Satisfaction Surveys  | Increase in SuperLife's Economic Value |
 |-------------------------------|--------------------------------|----------------------------------------|
 | **Claims Frequency**          | **Policy Sales**               | **Reduced Mortality Rates**            |
@@ -133,6 +134,7 @@ Even though the program is designed for the younger generation, it was also foun
 From our mortality calculations, we observe a decline in the overall mortality rates for both males and females in the presence of incentives within the policy calculations, across all cohorts of smokers and non-smokers. This trend is illustrated in Appendix Table 5 with its methodology, which presents the mortality tables for both genders in both scenarios.
 
 *Table 1: Average Mortality Savings for all ages based on scenarios for SPWL*
+
 |                  | MNS            | MS             | FNS            | FS             |
 |------------------|----------------|----------------|----------------|----------------|
 |   Low Cost       |   - Č 26,307   |   - Č 96,681   |   - Č 15,455   |   - Č 61,072   |
@@ -140,6 +142,7 @@ From our mortality calculations, we observe a decline in the overall mortality r
 |   High Cost      |   - Č 7,912    |   - Č 94,887   |   - Č 11,185   |   - Č 60,464   |
 
 *Table 2: Average Mortality Savings for all ages based on scenarios for T20*
+
 |                  | MNS              | MS                | FNS              | FS                |
 |------------------|------------------|-------------------|------------------|-------------------|
 |   Low Cost       |   - Č 2,482.67   |   - Č 12,478.98   |   - Č 1,624.42   |   - Č 10,269.04   |
@@ -168,6 +171,7 @@ We have projected ahead by 20 years, to 2043 and have considered the following f
 On average pure premiums are found to be reduced by Č 9412 for WLI and Č 3186.55 for T20 policies. The expected reduction in premium due to the program intervention enables the adjustment of base premiums to cover program costs, whist still being lower than the original premium. Policyholders will experience a reduction in their premiums while also enjoying the benefits of the program.
 
 *Table 3: T20 and WLI New Premium + Costs Difference*
+
 |                  | WLI           | T20           |
 |------------------|---------------|---------------|
 |  Low Cost        |   Č 9066.56   |   Č 2842.17   |
@@ -196,6 +200,7 @@ Age Bracketing: Individuals under the legal age of 18 are presumed non-smokers. 
 Mortality Loading Factors: From the ages of 18 onwards, each cohort is assigned a mortality loading factor, which when applied to the base population mortality at each age yields a new mortality rate. This factor reflects the differential impact of smoking and gender on mortality:
 
 *Table 4: Mortality Loading Factor Assumptions*
+
 |   Cohort                 |   Male Smokers   |   Female Smokers   |   Male Non-Smokers   |   Female Non-Smokers   |
 |--------------------------|------------------|--------------------|----------------------|------------------------|
 |   Gender impact          |   1.52           |   0.91             |   1.52               |   0.91                 |
@@ -222,6 +227,7 @@ The financial model for the Single Premium Whole Life Insurance (SPWL) and 20-Ye
 The most significant risks to the program are displayed through a risk matrix and are summarised in the table below. These risks arise from data limitations, uncertainty faced during mortality and program analysis, and projection of future claims cost.
 
 *Insert Matrix*
+
 |   Risk                  |   Explanation                                                                                                                                                                                                                                                                                        |   Risk Mitigation                                                                                                                                                                                                                                                                                                                                            |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   Assumption Risk       |   Foundational for modelling and ideally help simplify complex procedures. If they are incorrect, the model can produce inaccurate results, leading to poor decision making.                                                                                                                         |   Follow the challenge, validate, review procedure regularly. Apply appropriate modelling techniques like:    - Bayesian: update based on experience. This would assist in reducing uncertainty and improve accuracy of results.    - Ensemble: allow for the usage of multiple models and combining them. Allows us to not rely on one single assumption.   |
@@ -234,6 +240,7 @@ The most significant risks to the program are displayed through a risk matrix an
 
 
 ## 6. Data and Data Limitations
+
 |   Data Limitation                                                                                     |   Assumption                                                                                                                                                                                      |   Justification                                                                                                                                                                                                 |
 |-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   Lack of complete data availability for mortality tables (35 to 65 for SPWL and 26 to 55 for T20).   |   Assumed policyholders for both policies have similar mortalities when finding loading factors from policyholder data. Usage of external data from developed countries like USA and Australia.   |   Maximise data availability for more accurate loading factors.    Developed countries like USA and Australia are similar to Lumaria’s in terms of operations and have been considered as ideal replacements.   |
