@@ -226,7 +226,7 @@ The financial model for the Single Premium Whole Life Insurance (SPWL) and 20-Ye
 ## 5. Risk and Risk Mitigation Considerations
 The most significant risks to the program are displayed through a risk matrix and are summarised in the table below. These risks arise from data limitations, uncertainty faced during mortality and program analysis, and projection of future claims cost.
 
-*Insert Matrix*
+![](RiskMatrix.jpg)
 
 |   Risk                  |   Explanation                                                                                                                                                                                                                                                                                        |   Risk Mitigation                                                                                                                                                                                                                                                                                                                                            |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
